@@ -1,0 +1,67 @@
+﻿  RuleBasedSystems.cpp
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(11): warning C4005: "INFINITY": ponowna definicja makra
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_math.h(90): note: zobacz poprzednią definicję „INFINITY”
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(99): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(103): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(174): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(283): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(295): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(297): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(374): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(378): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(385): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(387): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(427): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(431): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(444): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(497): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(501): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(503): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(526): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(528): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(541): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(551): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(560): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(580): warning C4305: "=": obcięcie z "int" do "char"
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(580): warning C4309: "=": obcięcie stałej wartości
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(592): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(596): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(609): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(674): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(679): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(681): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(685): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(714): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(716): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(729): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(739): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(754): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(778): warning C4305: "=": obcięcie z "int" do "char"
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(778): warning C4309: "=": obcięcie stałej wartości
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(787): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(791): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(822): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(830): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(832): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(886): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(896): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(905): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(914): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(932): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(936): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(949): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(968): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(972): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(991): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(993): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(999): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(1011): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(1035): warning C4267: "argument": konwersja z "size_t" do "_Elem", możliwa utrata danych
+          with
+          [
+              _Elem=char
+          ]
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(1041): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(1060): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\rule based systems\rulebasedsystems\rulebasedsystems.cpp(1086): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  RuleBasedSystems.vcxproj -> D:\Chirurg\Projekty\C++\Sztuczna\Przemyslaw.Prusik\Rule Based Systems\Debug\RuleBasedSystems.exe
